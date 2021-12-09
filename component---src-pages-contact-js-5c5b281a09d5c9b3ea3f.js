@@ -1,0 +1,2 @@
+(self.webpackChunkMohammad_abbasi=self.webpackChunkMohammad_abbasi||[]).push([[501],{262:function(e,a,t){"use strict";t.r(a);var n=t(7294),l=t(7198),u=t(6179),c=t(7567);a.default=function(){return n.createElement(l.Z,null,n.createElement(u.Z,{title:"Contact"}),n.createElement(c.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-5c5b281a09d5c9b3ea3f.js.map

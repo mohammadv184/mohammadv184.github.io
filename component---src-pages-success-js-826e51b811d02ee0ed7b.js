@@ -1,0 +1,2 @@
+(self.webpackChunkMohammad_abbasi=self.webpackChunkMohammad_abbasi||[]).push([[866],{9658:function(e,t,a){"use strict";a.r(t),a.d(t,{default:function(){return r}});var n=a(7294),c=a(7198),s=a(6179),l=a(2387),u=a(9219);function r(){return n.createElement(c.Z,null,n.createElement(s.Z,{title:"Successfuly sent a message"}),n.createElement(u.Z,null),n.createElement("div",{className:"container"},n.createElement(l.Z,{text:"Successfully sent a contact message. Thank you!"})))}}}]);
+//# sourceMappingURL=component---src-pages-success-js-826e51b811d02ee0ed7b.js.map
